@@ -6,6 +6,11 @@
 Why?
 Because we can do it now.
 
+> [!IMPORTANT]
+> We can now do this [via the developer portal](https://discord.dev), in the 'Bot' tab. Much simpler, I agree!
+> ![Example of edition of the banner on the developer portal](https://github.com/mrrobotdotapp/putBannerAndAvatarToDiscordBot/assets/14293805/9de50b7e-b7ea-4cd4-98a6-64a70aac474f)
+
+
 ## How to process
 1. Copy `.env.example` to `.env`
 2. Fill the file
@@ -17,5 +22,4 @@ Because we can do it now.
 If you want to help. This script works but can be mooore optimized.
 
 - [ ] Show confirmation/error message when the banner/avatar is changed or not
-- [ ] Enables/disables what you want to change 
-- [ ] More documentation
+- [ ] Enables/disables what you want to change
