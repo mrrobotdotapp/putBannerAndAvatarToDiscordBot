@@ -1,0 +1,31 @@
+{
+  "name": "putbannerdiscordbotprofile",
+  "version": "1.0.0",
+  "description": "PUT a banner to a Discord bot with discord.js. (also work with GIF avatar) ",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrrobotdotapp/putBannerToDiscordBot.git"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "banner",
+    "api",
+    "avatar"
+  ],
+  "author": "Thomas Bnt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrrobotdotapp/putBannerToDiscordBot/issues"
+  },
+  "homepage": "https://github.com/mrrobotdotapp/putBannerToDiscordBot#readme"
+}
